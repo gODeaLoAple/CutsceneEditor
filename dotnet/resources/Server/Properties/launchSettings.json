@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Server": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\MaksiMath\\Desktop\\Programms\\CutsceneEditor\\ragemp-server.exe",
+      "workingDirectory": "C:\\Users\\MaksiMath\\Desktop\\Programms\\CutsceneEditor\\"
+    }
+  }
+}

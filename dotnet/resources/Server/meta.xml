@@ -1,0 +1,4 @@
+﻿<meta>
+  <info name="RageMp" type="script"/>
+  <script src="bin\Debug\net5.0\Server.dll"/>
+</meta>

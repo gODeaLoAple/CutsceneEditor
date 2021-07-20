@@ -1,0 +1,12 @@
+{
+	"maxplayers": 100,
+	"name": "Good RAGE",
+	"gamemode": "freeroam",
+	"stream-distance": 500.0,
+	"announce": true,
+	"encryption": false,
+	"csharp": "enabled",
+	"bind": "25.48.143.90",
+	"port": 22005,
+	"allow-cef-debugging": true
+}
